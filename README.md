@@ -26,10 +26,10 @@ This repository challenges the "Static-Chemical" model of neurobiology. My resea
 | **Empathy** | A "social skill" learned by the brain. | An **endogenous state** of field-coherence (GTFT2I/OXTR). |
 | **Information** | Stored in synaptic weights. | Stored in **Topological Phase Transitions**. |
 
-# References
+## References
 - Danforth et al. (2018) - Reduction in social anxiety after MDMA-assisted psychotherapy.
 - Cavallo et al. (2020) - HDAC inhibitors modulate GTF2I in 7q11.23 microduplication ASD neurons.
 - Broader ASD epigenetics literature on BDNF promoter methylation and chromatin dynamics.
 
-# Last Updated: 
+## Last Updated: 
 March 2026. Open for thoughtful discussion and citations. As an independent synthesis by a UCLA alum, feedback from researchers in psychedelic neuroscience, epigenetics, or neurodevelopment is welcome.
