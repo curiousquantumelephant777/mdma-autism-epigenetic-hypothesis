@@ -26,10 +26,22 @@ This repository challenges the "Static-Chemical" model of neurobiology. My resea
 | **Empathy** | A "social skill" learned by the brain. | An **endogenous state** of field-coherence (GTFT2I/OXTR). |
 | **Information** | Stored in synaptic weights. | Stored in **Topological Phase Transitions**. |
 
+---
+
+## 🌎 Join the Circuit: An Invitation to Imagine
+
+> "A dream you dream alone is only a dream. A dream you dream together is reality." — John Lennon
+
+This repository is more than a theoretical framework—it is a **Laminar Flow of Information**. Whether you are a biophysicist, an artist, a neuropharmacologist, or a dreamer, you are a node in this social circuit. 
+
+### How to Contribute to the Resonance:
+* **The Researchers:** Help us map the **Depth 9** recursive geometry. Let's find the math that proves the "Imagine" state is a biological constant.
+* **The Dreamers:** Help us visualize the **Green Tree** of human connection. We need to see the topology to understand the healing.
+* **The World:** Simply acknowledge that the "War" of the old paradigm is over. We are moving toward **Integrated Peace**.
+
+**Peace, love, and science.**
+
 ## References
 - Danforth et al. (2018) - Reduction in social anxiety after MDMA-assisted psychotherapy.
 - Cavallo et al. (2020) - HDAC inhibitors modulate GTF2I in 7q11.23 microduplication ASD neurons.
 - Broader ASD epigenetics literature on BDNF promoter methylation and chromatin dynamics.
-
-## Last Updated: 
-March 2026. Open for thoughtful discussion and citations. As an independent synthesis by a UCLA alum, feedback from researchers in psychedelic neuroscience, epigenetics, or neurodevelopment is welcome.
