@@ -28,7 +28,7 @@ This repository challenges the "Static-Chemical" model of neurobiology. My resea
 
 ---
 
-## 🌎 Join the Circuit: An Invitation to Imagine
+## 🌎 Collaborative Objectives & Future Directions
 
 > "A dream you dream alone is only a dream. A dream you dream together is reality." — John Lennon
 
