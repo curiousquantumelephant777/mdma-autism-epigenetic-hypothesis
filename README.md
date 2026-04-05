@@ -32,12 +32,12 @@ This repository challenges the "Static-Chemical" model of neurobiology. My resea
 
 > "A dream you dream alone is only a dream. A dream you dream together is reality." — John Lennon
 
-This repository is more than a theoretical framework—it is a **Laminar Flow of Information**. Whether you are a biophysicist, an artist, a neuropharmacologist, or a dreamer, you are a node in this social circuit. 
+This repository is more than a theoretical framework, it is a **laminar flow of conscious information**. Whether you are a biophysicist, an artist, a neuropharmacologist, or a dreamer, you are a node in this social circuit. 
 
 ### How to Contribute to the Resonance:
-* **The Researchers:** Help us map the **Depth 9** recursive geometry. Let's find the math that proves the "Imagine" state is a biological constant.
-* **The Dreamers:** Help us visualize the **Green Tree** of human connection. We need to see the topology to understand the healing.
-* **The World:** Simply acknowledge that the "War" of the old paradigm is over. We are moving toward **Integrated Peace**.
+* **The Researchers:** Help us map the recursive neural geometry. Let's find the math that proves the "Imagine" state is a biological constant.
+* **The Dreamers:** Help us visualize the "green tree" of human connection/dendritic communication. We need to see the topology to understand the healing.
+* **The World:** Simply acknowledge that the "war" of the old paradigm is over. We are moving toward integrated peace.
 
 **Peace, love, and science.**
 
